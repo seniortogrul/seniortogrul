@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-<br>Hi, I'm currently actively learning HTML and CSS and starting to learn Javascript.
+<br>Hi,I'm not SENIOR, but everyone calls me seniortogrul.I'm currently actively learning HTML and CSS and starting to learn Javascript.
 
 
 ## 🌐 Socials:
